@@ -1,0 +1,24 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Live-Ticket App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yash-032/Live-Ticket.git"
+  },
+  "author": "IT-26",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yash-032/Live-Ticket/issues"
+  },
+  "homepage": "https://github.com/Yash-032/Live-Ticket#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.6.0"
+  }
+}
